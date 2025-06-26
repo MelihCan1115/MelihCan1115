@@ -1,14 +1,13 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Melih Can KÖK!</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Network-CB9DF0?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Software%20Engineering-C2FFC7?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Cyber-CB9DF0?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-00CC00?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Engineering-4377FE?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-AI-EB0028?style=flat" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=haydarkadioglu&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
+    <img src="https://komarev.com/ghpvc/?username=MelihCan1115&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
 
 <p align="center">
@@ -22,7 +21,7 @@
 <summary>About Me</summary>
 <ul>
 <li>🔭 Exploring cutting-edge technologies and working on exciting projects in AI and software engineering.</li>
-<li>🌱 Currently enhancing my skills in Artificial Intelligence, Data Science and Python.</li>
+<li>🌱 Currently enhancing my skills in Embedded Systems with software .</li>
 <li>👨‍💻 Check out all my projects on <a href="https://github.com/MelihCan1115">GitHub</a>.</li>
 <li>⚡ Fun fact: I believe in combining creativity with technology to change the world.</li>
 </ul>
