@@ -91,9 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=haydarkadioglu&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Haydar Kadıoğlu's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydarkadioglu&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="Most Used Languages" />
 </div>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-</div>
 
 </details>
 
